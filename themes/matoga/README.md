@@ -23,7 +23,7 @@ All resources(files, fonts etc.) required by this theme are supplied with it.
 
 Theme was heavily inspired by two other themes:
 - starfield - made by Daniel Tschudi
-- manjaro default theme - author unknown
+- manjaro default theme - I do not know author
 
 All fonts, all png decorators and some parameters of components was inspired by themes above.
 

@@ -1,6 +1,6 @@
 # GRUB-themes
 
-This repository was created to create and store my GRUB 2 themes.
+This repository was created to create and store my GRUB 2 themes. To create themes user needs to understand what GRUB2 is and how it works.
 
 # Rules of the repository
 
